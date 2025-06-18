@@ -28,7 +28,6 @@
 
 <h1 align="center">👋Gaurav Dixit | Developer & Designer</h1>
 
----
 
 ### 👨‍💻 About Me
 
