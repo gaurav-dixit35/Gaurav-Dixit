@@ -28,7 +28,6 @@
 
 <h1 align="center">👋Gaurav Dixit | Developer & Designer</h1>
 
-
 ### 👨‍💻 About Me
 
 I'm a dedicated Full Stack Developer with a passion for creating robust web applications and solving real-world problems through code.
